@@ -1,3 +1,2 @@
-<<<<<<< HEAD
 Lam is a newbee developer from Vietnam, he wants to step-by-step and basically learn many things to become a good developer. He wants to understand IT more deeply. Thank you!
->>>>>>> d5404601454d4f751eac041b91b02085d1158466
+
