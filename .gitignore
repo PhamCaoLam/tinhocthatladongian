@@ -1,3 +1,4 @@
 config.php
 log/access.php
-
+log2/*
+!log2/file1 
