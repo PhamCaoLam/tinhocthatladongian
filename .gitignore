@@ -1,4 +1,3 @@
 config.php
-log/*.php
-!log/error.php
+log/access.php
 
